@@ -23,5 +23,5 @@ A universal toolkit for flashing, unbricking, and repairing smartphones powered 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/mtk-flash-universal.git
-cd mtk-flash-universal
+git clone https://github.com/turah0393/droirrescue.git
+cd droidrescue
